@@ -4,8 +4,8 @@ const fs = require('fs');
 const path = require('path');
 
 // Hard-coded token
-const DISCORD_TOKEN = 'MTM1MTk5OTE0ODAzNTAxODgyMg.GRBBRh.bpWIR0SNtEZ_rITn9CagE8NrA-cO36lA_PDz7I';
-const CLIENT_ID = '1351999148035018822';
+const DISCORD_TOKEN = 'secret';
+const CLIENT_ID = 'cliid';
 
 // File paths
 const GAME_DIR = './game_states';
